@@ -9,6 +9,7 @@ description: Week 0 lab work.
 toc: True
 comments: True
 date: 2023-08-18 12:00:00 +0000
+published: false
 ---
 
 ## Main Tools

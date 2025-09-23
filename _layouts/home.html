@@ -40,6 +40,37 @@ refactor: true
   {% endfor %}
 {% endif %}
 
+<style>
+  @keyframes fadeInLetter {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in-letter {
+  display: inline-block;
+  opacity: 0;
+  animation-name: fadeInLetter;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  animation-timing-function: ease;
+  font-size: inherit;
+  line-height: 1;
+}
+</style>
+
+<h1 style="font-weight: 700; font-size: 3rem; margin-bottom: 1rem;">
+  <span class="fade-in-letter" style="animation-delay: 0s;">W</span><span class="fade-in-letter" style="animation-delay: 0.1s;">e</span><span class="fade-in-letter" style="animation-delay: 0.2s;">l</span><span class="fade-in-letter" style="animation-delay: 0.3s;">c</span><span class="fade-in-letter" style="animation-delay: 0.4s;">o</span><span class="fade-in-letter" style="animation-delay: 0.5s;">m</span><span class="fade-in-letter" style="animation-delay: 0.6s;">e</span><span class="fade-in-letter" style="animation-delay: 0.7s;">!</span>
+</h1>
+  <p style="font-size: 1.1rem; line-height: 1.5;">
+    I'm an undergraduate student studying Aerospace Engineering at Purdue University. I have experience in the development, integration, testing, and troubleshooting of electrical, mechanical, and optical systems—both as an individual contributor and a team lead. I enjoy solving complex problems, analyzing data, and adapting quickly to evolving challenges.
+  </p>
+  <hr style="margin-top: 1.5rem; border: none; border-top: 3px solid #333;">
+</div>
+
 <div id="post-list">
   {% for post in posts %}
     <a href="{{ post.url | relative_url }}" class="card-wrapper">

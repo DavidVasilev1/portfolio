@@ -2,10 +2,11 @@
 
 # Import the theme
 theme: jekyll-theme-chirpy
+type: cdn
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
-baseurl: "/CSA"
+baseurl: ""
 
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
@@ -20,10 +21,10 @@ timezone: America/Los_Angeles
 
 title: David Vasilev # the main title
 
-tagline: A blog for CSA # it will display as the sub-title
+tagline: Project Portfolio # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  David Vasilev's Blog
+  David Vasilev's Portfolio
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ""
@@ -45,7 +46,7 @@ social:
     - https://github.com/DavidVasilev1 # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/david-vasilev
 
 google_site_verification: # fill in to your verification string
 
@@ -92,10 +93,10 @@ comments:
     issue_term: # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: "DavidVasilev1/CSAsite" # <gh-username>/<repo>
-    repo_id: "R_kgDOKKTbvg"
+    repo: "DavidVasilev1/portfolio" # <gh-username>/<repo>
+    repo_id: "R_kgDOPqEGbg"
     category: "Comments"
-    category_id: "DIC_kwDOKKTbvs4CY3sm"
+    category_id: "DIC_kwDOPqEGbs4CvyP2"
     mapping: "og:title" # optional, default to 'pathname'
     input_position: "top" # optional, default to 'bottom'
     lang: "en" # optional, default to the value of `site.lang`

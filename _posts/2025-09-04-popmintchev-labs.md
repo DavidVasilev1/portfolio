@@ -8,4 +8,5 @@ toc: True
 comments: True
 date: 2025-09-04 12:00:00 +0000
 published: true
+image: /assets/img/post_images/lab/lab_thumbnail.png
 ---

@@ -11,7 +11,7 @@ tail_includes:
 
 {% include lang.html %}
 
-<h1 data-toc-skip>{{ page.title }}</h1>
+<h1 class="display-4 fw-bold" data-toc-skip>{{ page.title }}</h1>
 
 <div class="post-meta text-muted">
     <!-- published date -->
@@ -28,24 +28,11 @@ tail_includes:
     </span>
     {% endif %}
 
-  {% if page.image %}
-    {% capture src %}src="{{ page.image.path | default: page.image }}"{% endcapture %}
-    {% capture class %}class="preview-img{% if page.image.no_bg %}{{ ' no-bg' }}{% endif %}"{% endcapture %}
-    {% capture alt %}alt="{{ page.image.alt | xml_escape | default: "Preview Image" }}"{% endcapture %}
-
-    {% capture lqip %}
-      {% if page.image.lqip %}
-        lqip="{{ page.image.lqip }}"
-      {% endif %}
-    {% endcapture %}
-
-    <div class="mt-3 mb-3">
-      <img {{ src }} {{ class }} {{ alt }} w="1200" h="630" {{ lqip | strip }}>
-      {%- if page.image.alt -%}
-        <figcaption class="text-center pt-2 pb-2">{{ page.image.alt }}</figcaption>
-      {%- endif -%}
-    </div>
-  {% endif %}
+    {% if page.description %}
+      <div class="description-sidebar text-muted fst-italic fs-6 px-3 py-2 border-start border-5 border-gray mt-2 mb-3">
+        {{ page.description }}
+      </div>
+    {% endif %}
 
   <div class="d-flex justify-content-between">
     <!-- author(s) -->

@@ -11,7 +11,7 @@ tail_includes:
 
 {% include lang.html %}
 
-<h1 class="display-4 fw-bold" data-toc-skip>{{ page.title }}</h1>
+<h1 data-toc-skip>{{ page.title }}</h1>
 
 <div class="post-meta text-muted">
     <!-- published date -->
@@ -29,7 +29,7 @@ tail_includes:
     {% endif %}
 
     {% if page.description %}
-      <div class="description-sidebar text-muted fst-italic fs-6 px-3 py-2 border-start border-5 border-gray mt-2 mb-3">
+      <div class="description-sidebar text-muted fst-italic fs-6 px-3 py-2 border-start border-2 border-gray mt-2 mb-3">
         {{ page.description }}
       </div>
     {% endif %}

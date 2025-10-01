@@ -100,10 +100,6 @@ refactor: true
                 {{ post.description }}
               </p>
             {% endif %}
-            <p>
-              {% include no-linenos.html content=post.content %}
-              {{ content | markdownify | strip_html | truncate: 200 | escape }}
-            </p>
           </div>
 
           <div class="post-meta flex-grow-1 d-flex align-items-end">

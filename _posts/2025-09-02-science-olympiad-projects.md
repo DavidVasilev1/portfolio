@@ -7,7 +7,7 @@ description: Designed, built, and optimized multiple airplane models for Science
 toc: True
 comments: True
 date: 2025-09-02 12:00:00 +0000
-published: true
+published: false
 image: /assets/img/post_images/scioly/gliders_thumbnail.png
 ---
 

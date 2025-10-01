@@ -7,6 +7,6 @@ description: Led Robotics Electrical Design and Build Team, mentoring 15 members
 toc: True
 comments: True
 date: 2025-09-03 12:00:00 +0000
-published: true
+published: false
 image: /assets/img/post_images/robotics/robot_thumbnail.png
 ---

@@ -146,18 +146,19 @@ Looking ahead, I plan to entirely rework this system, adopting a “sandbox” a
 
 ### Roll Cage
 
+![Rollcage](/assets/img/post_images/psr/integration/rollcage1.png){: width="700"}
+*We integrate the roll cage onto the chassis using wavelinked faces and datums from reference assemblies. The design brings the cage as close to the driver as possible to minimize canopy size.*{: style="font-size:1.2em; display:block; text-align:center;"}
+
+![Rollcage](/assets/img/post_images/psr/integration/rollcage2.png){: width="700"}
+*We shape the roll cage with minimal width while still giving the driver enough clearance to turn their head inside the structure.*{: style="font-size:1.2em; display:block; text-align:center;"}
+
 ### Electrical
-![Electrical](/assets/img/post_images/psr/integration/battery1.png){: width="700"}
-*Selective coring defined for integration with roll cage and suspension.*{: style="font-size:1.2em; display:block; text-align:center;"}
 
-![Electrical](/assets/img/post_images/psr/integration/battery2.png){: width="700"}
-*Selective coring defined for integration with roll cage and suspension.*{: style="font-size:1.2em; display:block; text-align:center;"}
-
-![Electrical](/assets/img/post_images/psr/integration/battery3.png){: width="700"}
-*Selective coring defined for integration with roll cage and suspension.*{: style="font-size:1.2em; display:block; text-align:center;"}
+![Electrical](/assets/img/post_images/psr/integration/electrical3.png){: width="700"}
+*I place electrical components close to their points of use. For example, I position the auxiliary battery near the driver electronics to reduce wire resistance.*{: style="font-size:1.2em; display:block; text-align:center;"}
 
 ![Electrical](/assets/img/post_images/psr/integration/electrical1.png){: width="700"}
-*Selective coring defined for integration with roll cage and suspension.*{: style="font-size:1.2em; display:block; text-align:center;"}
+*We mount the motor controller near the motor to minimize resistance in the high-voltage, thick-gauge wires.*{: style="font-size:1.2em; display:block; text-align:center;"}
 
-![Electrical](/assets/img/post_images/psr/integration/electrical2.png){: width="700"}
-*Selective coring defined for integration with roll cage and suspension.*{: style="font-size:1.2em; display:block; text-align:center;"}
+![Electrical](/assets/img/post_images/psr/integration/battery1.png){: width="700"}
+*We arrange the battery in two layers: the bottom holds spaced battery modules for active air cooling, while the top houses the BMS to regulate charging and discharging.*{: style="font-size:1.2em; display:block; text-align:center;"}

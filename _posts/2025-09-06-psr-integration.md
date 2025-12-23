@@ -55,7 +55,7 @@ I pivoted to Box Drive, aligning with other car teams and gaining greater flexib
 *Established a part checkout/locking process to prevent merge conflicts.*{: style="font-size:1.2em; display:block; text-align:center;"}
 
 ## WAVE Linking
-Faced with scarce resources on WAVE linking and top-down modeling, I proactively researched methodologies by consulting with interns from SpaceX, Zipline, and Relativity. This effort directly shaped the development of our current WAVE linking workflow.
+Faced with scarce resources on WAVE linking and top-down modeling, I proactively researched methodologies by consulting with industry professionals. This effort directly shaped the development of our current WAVE linking workflow.
 
 ![WAVE Linking](/assets/img/post_images/psr/integration/wavelinking6.png){: width="700"}
 *Created a reference assembly for WAVE linking, ensuring static objects preserve link integrity.*{: style="font-size:1.2em; display:block; text-align:center;"}

@@ -1,12 +1,12 @@
 ---
-title: Purdue Solar Racing - Chassis
+title: Purdue Solar Racing - Chassis Design
 author: david
 categories: ['Manufacturing', 'Design']
 tags: ['CAD', 'FEA', '3D Printing', 'NX', 'Simcenter', 'Altair Hypermesh', 'Integration', 'Leadership', 'Teamcenter', 'PDM', 'Top-Down Modeling']
 description: Led the design and development of a carbon fiber monocoque chassis for Purdue Solar Racing’s 2026 solar car competition.
 toc: True
 comments: True
-date: 2025-09-06 12:00:00 +0000
+date: 2025-09-06 13:00:00 +0000
 published: true
 image: /assets/img/post_images/psr/solar_thumbnail.png
 ---

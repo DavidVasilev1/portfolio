@@ -1,5 +1,5 @@
 ---
-title: Purdue Solar Racing - Integration
+title: Purdue Solar Racing - Integration Design
 author: david
 categories: ['Manufacturing', 'Design']
 tags: ['CAD', 'FEA', '3D Printing', 'NX', 'Simcenter', 'Altair Hypermesh', 'Integration', 'Leadership', 'Teamcenter', 'PDM', 'Top-Down Modeling']

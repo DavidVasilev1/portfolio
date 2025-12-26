@@ -92,8 +92,3 @@ image: /assets/img/post_images/psr/solar_thumbnail.png
 ## Version 8
 ![Version 8](/assets/img/post_images/psr/chassis/chassis8.png){: width="700"}
 *Completing the chassis with an open front for easier component access, reinforced by a solid carbon ring in front. Selective coring supports mounting and subsystem integration.*{: style="font-size:1.3em; display:block; text-align:center;"}
-
-## Chassis FEA
-![Chassis FEA](/assets/img/post_images/psr/chassis/chassisfea3.png){: width="700"}
-![Chassis FEA](/assets/img/post_images/psr/chassis/chassisfea1.png){: width="700"}
-![Chassis FEA](/assets/img/post_images/psr/chassis/chassisfea2.png){: width="700"}

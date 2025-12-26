@@ -8,7 +8,7 @@ toc: True
 comments: True
 date: 2025-09-06 12:00:00 +0000
 published: true
-image: /assets/img/post_images/psr/solar_thumbnail2.png
+image: /assets/img/post_images/psr/solar_thumbnail.png
 ---
 
 <style>
@@ -30,9 +30,8 @@ image: /assets/img/post_images/psr/solar_thumbnail2.png
   }
 </style>
 
-![Team](/assets/img/post_images/psr/solar_thumbnail2.png)
-*Integration*{: style="font-size:1.2em; display:block; text-align:center;"}
-
+![Team](/assets/img/post_images/psr/whole team.JPG)
+*The Team!*{: style="font-size:1.3em; display:block; text-align:center;"}
 
 ## PDM Design
 

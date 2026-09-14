@@ -3,7 +3,7 @@ title: Purdue Solar Racing - Manufacturing
 author: david
 categories: ['Manufacturing', 'Design']
 tags: ['CAD', 'FEA', '3D Printing', 'NX', 'Simcenter', 'Altair Hypermesh', 'Integration', 'Leadership', 'Teamcenter', 'PDM', 'Top-Down Modeling', 'Layups']
-description: Directed the chassis manufacturing and subsystem integration for the 2026 solar car. Overseeing the end-to-end production cycle, I managed the transition from CAD to precision tooling and ensured structural alignment across all vehicle systems.
+description: Directed composites manufacturing and subsystem integration for the 2026 solar car. Overseeing the end-to-end production cycle, I managed the transition from CAD to precision tooling and ensured structural alignment across all vehicle systems.
 toc: True
 comments: True
 date: 2025-10-25 12:00:00 +0000

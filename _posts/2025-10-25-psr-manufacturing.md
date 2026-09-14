@@ -55,3 +55,7 @@ To produce high-quality composite parts, the positive molds must have a non-poro
 *Guide coats are used during iterative sanding to identify and eliminate low spots.*{: style="font-size:1.3em; display:block; text-align:center;"}
 ![Sanding](/assets/img/post_images/psr/manufacturing/sanding2.jpg){: width="700"}
 *Final sanding ensures the positive mold is perfectly smooth before proceeding to the negative layup.*{: style="font-size:1.3em; display:block; text-align:center;"}
+
+# Negative Mold
+
+The next step is to make a negative mold for the chassis, which is made of gelcoat

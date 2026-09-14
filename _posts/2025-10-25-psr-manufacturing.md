@@ -8,7 +8,7 @@ toc: True
 comments: True
 date: 2025-10-25 12:00:00 +0000
 published: true
-image: /assets/img/post_images/psr/manufacturing/primer.jpg
+image: /assets/img/post_images/psr/manufacturing/final2.jpg
 ---
 
 ![Chassis Molds](/assets/img/post_images/psr/manufacturing/primer.jpg)

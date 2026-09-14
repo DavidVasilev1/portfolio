@@ -154,7 +154,7 @@ Following the fabrication of the composite monocoque chassis, mechanical integra
 ![Chassis Longitudinal Alignment](/assets/img/post_images/psr/manufacturing/integration3.jpg){: width="700"}
 *An overhead view shows the full length of the lower chassis tub with structural bulkheads, wire routing channels, and rear suspension pick-up points positioned.*{: style="font-size:1.3em; display:block; text-align:center;"}
 
-![Vehicle Assembly Bay Overview](/assets/img/post_images/psr/manufacturing/integration4.jpg){: width="700"}
+![Vehicle Assembly Bay Overview](/assets/img/post_images/psr/manufacturing/integration4.jpg){: width="700" style="transform: rotate(90deg);"}
 *Team members fit exterior fairings and conduct mechanical checks on the fully assembled chassis within the integration shop.*{: style="font-size:1.3em; display:block; text-align:center;"}
 
 # Vehicle Assembly & Competition Testing
